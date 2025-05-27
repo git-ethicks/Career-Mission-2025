@@ -1,7 +1,7 @@
-# Career-Mission-2025
+![Career Mission 2025](https://github.com/user-attachments/assets/5a049f16-3da9-4aac-a6fe-5d0ac46564b6)# Career-Mission-2025
 # Career Mission Portfolio
 
-![Project Screenshot](/assets/screenshot.png)
+![Project Screenshot](/assets/Career Mission 2025.png)
 
 A responsive portfolio website showcasing my journey to becoming a developer in 2025. Built with pure HTML and CSS to demonstrate fundamental web development skills.
 
