@@ -40,10 +40,10 @@ Through building this project, I:
 
 1. Clone this repository
 2. Open `index.html` in your browser
-3. Or view live at: [GitHub Pages Link]
+3. Or view live at: [[GitHub Pages Link](https://git-ethicks.github.io/Career-Mission-2025/)]
 
 ## Connect With Me
 
-[![Facebook](/assets/facebook.png)](https://facebook.com/yourprofile)
-[![GitHub](/assets/github.png)](https://github.com/yourusername)
+[![Facebook](/assets/facebook.png)](https://web.facebook.com/md.tahsin.mozumder)
+[![GitHub](/assets/github.png)](https://github.com/git-ethicks)
 [![LinkedIn](/assets/linkedin.png)](https://linkedin.com/in/yourprofile)
