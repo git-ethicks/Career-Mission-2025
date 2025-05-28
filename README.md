@@ -1,4 +1,4 @@
-![Career Mission 2025](https://github.com/user-attachments/assets/5a049f16-3da9-4aac-a6fe-5d0ac46564b6)# Career-Mission-2025
+# Career-Mission-2025
 # Career Mission Portfolio
 
 ![Project Screenshot](/assets/Career-mission-2025.png)
