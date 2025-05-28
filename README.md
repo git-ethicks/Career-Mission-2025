@@ -39,11 +39,11 @@ Through building this project, I:
 ## How to Run
 
 1. Clone this repository
-2. Open `index.html` in your browser
+2. Open `https://github.com/git-ethicks/Career-Mission-2025` in your browser
 3. Or view live at: [[GitHub Pages Link](https://git-ethicks.github.io/Career-Mission-2025/)]
 
 ## Connect With Me
 
 [![Facebook](/assets/facebook.png)](https://web.facebook.com/md.tahsin.mozumder)
 [![GitHub](/assets/github.png)](https://github.com/git-ethicks)
-[![LinkedIn](/assets/linkedin.png)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](/assets/linkedin.png)](https://www.linkedin.com/in/md-tahsin-mozumder)
